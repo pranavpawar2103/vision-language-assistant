@@ -1,0 +1,86 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Virtual environments
+# =========================
+pip-wheel-metadata/
+share/python-wheels/
+
+# =========================
+# Model weights / ML artifacts
+# =========================
+*.pt
+*.pth
+*.bin
+*.onnx
+*.ckpt
+*.h5
+
+# =========================
+# API keys / secrets
+# =========================
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# =========================
+# Logs & temp files
+# =========================
+*.log
+*.tmp
+/tmp/
+
+# =========================
+# Data & media (do not commit large files)
+# =========================
+data/
+datasets/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+
+# Allow small example images
+!examples/
+!examples/*.jpg
+!examples/*.jpeg
+!examples/*.png
+
+# =========================
+# Jupyter / Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
