@@ -36,7 +36,7 @@ A **hybrid vision-language system** that:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        Product Image                             │
+│                        Product Image                            │
 └────────────────────────┬────────────────────────────────────────┘
                          │
          ┌───────────────┴───────────────┐
@@ -502,7 +502,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🎓 Master's in Computer Science, University of Ottawa (Dec 2024)
 - 💼 Research Assistant | Seeking AI/ML Engineer roles
-- 🔗 LinkedIn: [linkedin.com/in/pranavpawar2103](https://linkedin.com/in/pranavpawar2103)
+- 🔗 LinkedIn: [linkedin.com/in/pranavpawar2103](https://www.linkedin.com/in/pranav-pawar-4175741b3/)
 - 🐙 GitHub: [github.com/pranavpawar2103](https://github.com/pranavpawar2103)
 - 📧 Email: pranavpawar2126@gmail.com
 
